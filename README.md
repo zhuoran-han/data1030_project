@@ -5,7 +5,7 @@ This project attempts to create a machine learning model to achieve the goal of 
 
 
 The version and packages used in this project are: 
-Python : 3.9 
+Python : 3.9 ,
 numpy : "1.21.1", 
 pandas : "1.3.1",
 matplotlib : "3.4.2", 
